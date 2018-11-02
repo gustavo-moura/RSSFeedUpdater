@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+<!-- https://www.w3schools.com/xml/xml_rss.asp -->
+<channel>
+	<title>Por Trás dos Controles</title>
+	<link>https://fog.icmc.usp.br</link>
+	<description>O podcast que pluga você no mundo dos jogos!</description>
+	<pubDate>Thu, 01 Nov 2018 16:52:59 GMT</pubDate>
+	<language>pt-br</language>
+	<generator>fellowshipofthegame v0.0.1</generator>
+	<copyright>fellowshipofthegame-2018</copyright>
+	<webMaster>fog@icmc.usp.br (Fellowship of the Game)</webMaster>
+
+  <!-- update goes here -->
+	<item>
+		<title>Ep.1</title>
+		<link>https://fog.icmc.usp.br/ep1</link>
+		<description></description>
+		<pubDate>Thu, 01 Nov 2018 16:52:59 GMT</pubDate>
+		<guid>http://scripting.com/2018/11/01.html#a165259</guid>
+	</item>
+
+
+</channel>
+</rss>
+
+<!--
+<itunes:category text="Education"/>
+<itunes:category text="Games &amp; Hobbies"/>
+<itunes:category text="Technology "/>
+<itunes:category text="Category"/>
+<itunes:category text="Category"/>
+<itunes:explicit>NO</itunes:explicit>
+<itunes:keywords>Palavras chaves</itunes:keywords>
+<itunes:summary>O podcast que pluga você no mundo dos jogos!</itunes:summary>
+<itunes:subtitle>Subtítulo do Podcast</itunes:subtitle>
+<itunes:image href="Link da imagem"/>
+<itunes:author>Fellowship of the Game</itunes:author>
+
+
+<webMaster>fog@icmc.usp.br</webMaster>
+<copyright>Frase com direitos reservados do site</copyright>
+<language>pt-br</language>
+<title>Por Trás dos Controles</title>
+<link>http://fog.icmc.usp.br</link>
+<description>Descrição do site</description>
+<pubDate>Sun, 02 Sep 2012 00:01:00 -3000</pubDate>
+<itunes:owner>
+  <itunes:name>Nome do Podcast</itunes:name>
+  <itunes:email>e-mail do podcast</itunes:email>
+</itunes:owner>
+<image>
+  <title>Título da imagem</title>
+  <link>URL redirecionada da imagem</link>
+  <url>URL da imagem</url>
+</image>
+
+
+<item>
+<author>Título do Podcast</author>
+<title>Título do Episódio</title>
+  <description>Descrição do episódios</description>
+  <link>Link do episódio</link>
+  <pubDate>Dia, Data Hora -0300</pubDate>
+  <itunes:duration>Duração do episódio</itunes:duration>
+  <itunes:keywords>Tags do episódio</itunes:keywords>
+  <itunes:summary>Descrição do episódios para iTunes</itunes:summary>
+  <itunes:subtitle>Descrição do episódios para iTunes</itunes:subtitle>
+  <itunes:author>Autor do episódio para iTunes</itunes:author>
+  <itunes:explicit>NO</itunes:explicit>
+  <itunes:block>no</itunes:block>
+  <enclosure url="Link do arquivo MP3" length="Tamanho do Arquivo" type="audio/mpeg"/>
+</item>
+
+
+</channel>
+</rss>
+
+-->
